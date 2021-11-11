@@ -1,0 +1,138 @@
+Started phase 0, duration: 2s @ 17:53:16(-0300) 2021-11-11
+Report @ 17:53:26(-0300) 2021-11-11
+Elapsed time: 10 seconds
+  Scenarios launched:  70
+  Scenarios completed: 0
+  Requests completed:  494
+  Mean response/sec: 56.57
+  Response time (msec):
+    min: 367
+    max: 2418
+    median: 1010
+    p95: 2025.8
+    p99: 2392.2
+  Codes:
+    200: 494
+
+Report @ 17:53:36(-0300) 2021-11-11
+Elapsed time: 20 seconds
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  507
+  Mean response/sec: 52.48
+  Response time (msec):
+    min: 958
+    max: 2036
+    median: 1133
+    p95: 2022
+    p99: 2031.4
+  Codes:
+    200: 507
+
+Report @ 17:53:46(-0300) 2021-11-11
+Elapsed time: 30 seconds
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  505
+  Mean response/sec: 52.28
+  Response time (msec):
+    min: 961
+    max: 2037
+    median: 1019
+    p95: 2021
+    p99: 2030.5
+  Codes:
+    200: 505
+
+Report @ 17:53:56(-0300) 2021-11-11
+Elapsed time: 40 seconds
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  502
+  Mean response/sec: 51.97
+  Response time (msec):
+    min: 966
+    max: 2037
+    median: 1089
+    p95: 2019
+    p99: 2026.5
+  Codes:
+    200: 502
+
+Report @ 17:54:06(-0300) 2021-11-11
+Elapsed time: 50 seconds
+  Scenarios launched:  0
+  Scenarios completed: 1
+  Requests completed:  504
+  Mean response/sec: 52.12
+  Response time (msec):
+    min: 971
+    max: 2030
+    median: 1020.5
+    p95: 2016
+    p99: 2025.9
+  Codes:
+    200: 504
+
+Report @ 17:54:16(-0300) 2021-11-11
+Elapsed time: 1 minute, 0 seconds
+  Scenarios launched:  0
+  Scenarios completed: 10
+  Requests completed:  509
+  Mean response/sec: 51.66
+  Response time (msec):
+    min: 967
+    max: 2031
+    median: 1016
+    p95: 2015
+    p99: 2023.4
+  Codes:
+    200: 509
+
+Report @ 17:54:26(-0300) 2021-11-11
+Elapsed time: 1 minute, 10 seconds
+  Scenarios launched:  0
+  Scenarios completed: 55
+  Requests completed:  471
+  Mean response/sec: 43.11
+  Response time (msec):
+    min: 354
+    max: 2028
+    median: 998
+    p95: 1810.8
+    p99: 2019.8
+  Codes:
+    200: 471
+
+Report @ 17:54:27(-0300) 2021-11-11
+Elapsed time: 1 minute, 11 seconds
+  Scenarios launched:  0
+  Scenarios completed: 4
+  Requests completed:  8
+  Mean response/sec: 3.48
+  Response time (msec):
+    min: 374
+    max: 392
+    median: 379.5
+    p95: 392
+    p99: 392
+  Codes:
+    200: 8
+
+All virtual users finished
+Summary report @ 17:54:27(-0300) 2021-11-11
+  Scenarios launched:  70
+  Scenarios completed: 70
+  Requests completed:  3500
+  Mean response/sec: 49.09
+  Response time (msec):
+    min: 354
+    max: 2418
+    median: 1012
+    p95: 2018
+    p99: 2030
+  Scenario counts:
+    0: 70 (100%)
+  Codes:
+    200: 3500
+
